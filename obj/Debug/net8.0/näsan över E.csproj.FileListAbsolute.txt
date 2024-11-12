@@ -1,0 +1,14 @@
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\bin\Debug\net8.0\näsan över E.exe
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\bin\Debug\net8.0\näsan över E.deps.json
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\bin\Debug\net8.0\näsan över E.runtimeconfig.json
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\bin\Debug\net8.0\näsan över E.dll
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\bin\Debug\net8.0\näsan över E.pdb
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\obj\Debug\net8.0\näsan över E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\obj\Debug\net8.0\näsan över E.AssemblyInfoInputs.cache
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\obj\Debug\net8.0\näsan över E.AssemblyInfo.cs
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\obj\Debug\net8.0\näsan över E.csproj.CoreCompileInputs.cache
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\obj\Debug\net8.0\näsan över E.dll
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\obj\Debug\net8.0\refint\näsan över E.dll
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\obj\Debug\net8.0\näsan över E.pdb
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\obj\Debug\net8.0\näsan över E.genruntimeconfig.cache
+C:\Users\teo.erfassjosefsson\programering 1 med mikael\näsan över E\obj\Debug\net8.0\ref\näsan över E.dll
