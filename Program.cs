@@ -65,5 +65,65 @@
 // }
 
 // uppgift 8
+// int gissningint = 0;
+// int randomnumber = Random.Shared.Next(1,11);
+// Console.WriteLine("gissa på ett nummer mellan 1-10");
+// while(true){
+// string gissning = Console.ReadLine();
+// bool sucess = int.TryParse(gissning, out gissningint);
+// if(sucess == true && randomnumber == gissningint){
+// Console.WriteLine("det var rätt!");
+// Thread.Sleep(1000);
+// break;
+// }
+// else if(sucess == true && randomnumber < gissningint){
+//     Console.WriteLine("det var för högt!");
+// }
+// else if(sucess == true && randomnumber > gissningint){
+//     Console.WriteLine("det var för lågt!");
+// }
+//     else if(sucess != true){
+//         Console.WriteLine("det är inte en gissning!");
+//     }
+// }
 
-int randomnumber = Random.Shared.Next(1,10);
+
+
+// Uppgift 02 listor och arrayer
+
+// uppgift 1 & 2
+// string[] leksaker = {"docka", "leksaksbil", "spade", "traktor", "skateboard"};
+// for(int i=0;i<5;i++){
+//     Console.WriteLine(leksaker[i]);
+// }
+// Console.ReadLine();
+
+// uppgift 3
+// string[] klasskamrater = {"calle", "elis", "anton", "oscar", "harald};
+
+// uppgift 4
+// string[] värden = {"10", "9", "8", "1", "2"};
+
+// uppgift 5
+// string[] leksaker = {"docka", "leksaksbil", "spade", "traktor", "skateboard"};
+// string[] klasskamrater = {"calle", "elis", "anton", "oscar", "harald"};
+// string[] värden = {"10", "9", "8", "1", "2"};
+// for(int i = 0 ; i < 5 ; i++){
+// Console.WriteLine($"{leksaker[i]} ger {klasskamrater[i]} betyget {värden[i]}");
+// }
+// Console.ReadLine();
+
+// uppgift 6,7 och 8
+List<string> cities = new List<string>();
+
+    for(int i = 0; i < 5; i++){
+   string input = Console.ReadLine();
+   if(input.ToLower() == "exit"){
+    break;
+   }
+    cities.Add(input);
+    }
+     for(int j = 0; j < 10; j++){
+    Console.WriteLine($"{cities[j]}");
+     }
+Console.ReadLine();
