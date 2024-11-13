@@ -114,16 +114,40 @@
 // Console.ReadLine();
 
 // uppgift 6,7 och 8
-List<string> cities = new List<string>();
+// List<string> cities = new List<string>();
 
-    for(int i = 0; i < 5; i++){
-   string input = Console.ReadLine();
-   if(input.ToLower() == "exit"){
-    break;
-   }
-    cities.Add(input);
-    }
-     for(int j = 0; j < 10; j++){
-    Console.WriteLine($"{cities[j]}");
-     }
-Console.ReadLine();
+//     for(int i = 0; i < 5; i++){
+//    string input = Console.ReadLine();
+//    if(input.ToLower() == "exit"){
+//     break;
+//    }
+//     cities.Add(input);
+//     }
+//      for(int j = 0; j < 10; j++){
+//     Console.WriteLine($"{cities[j]}");
+//      }
+// Console.ReadLine();
+
+
+
+// uppgift 03 Metoder
+
+// uppgift 1
+// void Hello32() {
+//  for(int i = 0; i < 32; i++ ){
+//     Console.WriteLine("Hello, World");
+//  }
+// }
+// Hello32();
+// Console.ReadLine();
+
+// uppgift 2
+// int kvadrat = 25;
+
+// void bib(int kvadrat){
+//  Console.WriteLine($"{kvadrat*kvadrat}");
+//   Console.ReadLine();
+// }
+// bib(kvadrat);
+
+// uppgift 3
